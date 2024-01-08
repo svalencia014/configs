@@ -1,1 +1,2 @@
-Can be cloned to `~` to use all configs
+# Configs
+All of my configs for software such as oh-my-posh and neovim
